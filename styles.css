@@ -41,6 +41,7 @@ li {
   background-color: red;
   justify-content: center;
   position: relative;
+  text-align: center;
 }
 
 /* .flex-container {
