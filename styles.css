@@ -10,15 +10,11 @@
   height: 65px;
 }
 
-/* .centered {
-    max-width: 100%;
-    margin: 0 auto;
-    background-color: lightgrey;
-    padding: 10px;
-    justify-content: center;
-    position: relative;
-    text-align: center;
-} */
+.centered {
+  max-width: 100%;
+  margin: 0 auto;
+  text-align: center;
+} 
 
 ul {
   padding: 0px; 
@@ -38,8 +34,6 @@ li {
 .header {
   max-width: 100%;
   margin: 0 auto;
-  /* background-color: red;
-  justify-content: center; */
   text-align: center;
   background-color: lightsalmon;
 }
