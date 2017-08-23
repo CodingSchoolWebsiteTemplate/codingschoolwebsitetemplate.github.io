@@ -1,0 +1,46 @@
+/* body {
+  background-image: url("https://lambdaschool.com/assets/img/background.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+  opacity: 0.3;
+} */
+
+.nav-container {
+  height: 65px;
+}
+
+.main-container {
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+ul {
+  padding: 0px; 
+  margin: 0;
+  display: flex;
+  justify-content: left;
+}
+
+li {
+  width: 100px;
+  justify-content: center;
+  list-style: none;
+  padding: 0px; 
+  margin: 5px;
+}
+
+.flex-container {
+  display: -webkit-flex;
+  display: flex;
+  width: 400px;
+  height: 250px;
+  background-color: lightgrey;
+}
+
+.flex-item {
+  background-color: cornflowerblue;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+}
