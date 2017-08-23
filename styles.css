@@ -34,7 +34,15 @@ li {
   margin: 5px;
 }
 
-.flex-container {
+.header {
+  max-width: 100%;
+  margin: 0 auto;
+  background-color: red;
+  justify-content: center;
+  position: relative;
+}
+
+/* .flex-container {
   display: -webkit-flex;
   display: flex;
   width: 400px;
@@ -47,4 +55,4 @@ li {
   width: 100px;
   height: 100px;
   margin: 10px;
-}
+} */
