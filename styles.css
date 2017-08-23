@@ -11,7 +11,7 @@
 }
 
 .centered {
-    max-width: 760px;
+    max-width: 100%;
     margin: 0 auto;
     background-color: lightgrey;
     padding: 10px;
@@ -22,7 +22,6 @@ ul {
   margin: 0;
   display: flex;
   justify-content: left;
-  background-color: red;
 }
 
 li {
