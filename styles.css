@@ -40,10 +40,9 @@ li {
   margin: 0 auto;
   background-color: red;
   justify-content: center;
-  position: relative;
   text-align: center;
 }
-
+p h1 h2 h3 h4 h5 h6 { text-align: center; }
 /* .flex-container {
   display: -webkit-flex;
   display: flex;
