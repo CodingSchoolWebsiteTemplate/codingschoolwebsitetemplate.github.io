@@ -10,7 +10,7 @@
   height: 65px;
 }
 
-.centered {
+/* .centered {
     max-width: 100%;
     margin: 0 auto;
     background-color: lightgrey;
@@ -18,7 +18,7 @@
     justify-content: center;
     position: relative;
     text-align: center;
-}
+} */
 
 ul {
   padding: 0px; 
